@@ -1,0 +1,43 @@
+table{
+    width: 40vw;
+    margin: auto 25vw;
+    border: black 2px solid;
+    
+}
+th{
+    border: black 2px solid;
+    background-color: darkolivegreen;
+
+
+}
+
+td{
+    border: black 2px solid;
+}
+
+#celda2{
+    background-color: aqua;
+}
+
+#celda6{
+    text-align: end;
+    vertical-align: bottom;
+    background-color: aqua;
+
+}
+
+#celda3{
+    color: red;
+    text-align: center;
+}
+
+#celda5{
+    color: red;
+    text-align: center;
+}
+
+#celda8{
+
+    color: red;
+    text-align: center;
+}

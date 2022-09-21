@@ -1,23 +1,13 @@
-div{
-    border: 5px black solid;
-    width: 30vw;
-    background-color: blue;
-}
-
-th{
-    /* border: 2px black solid; */
-    width: 20vw;
-    background-color: green;
+table{
+    border: 1px solid red;
 }
 
 td{
-    border: 2px black solid;
-    background-color: aquamarine;
-    text-align: center;
-
+    border: 1px solid green;
 }
 
-#deporte2{
-    background-color: bisque;
+th{
+    border: 1px solid red;
+
+
 }
-   

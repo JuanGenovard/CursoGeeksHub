@@ -1,0 +1,23 @@
+div{
+    border: 5px black solid;
+    width: 30vw;
+    background-color: blue;
+}
+
+th{
+    /* border: 2px black solid; */
+    width: 20vw;
+    background-color: green;
+}
+
+td{
+    border: 2px black solid;
+    background-color: aquamarine;
+    text-align: center;
+
+}
+
+#deporte2{
+    background-color: bisque;
+}
+   
